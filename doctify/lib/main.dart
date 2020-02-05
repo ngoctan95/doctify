@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'What\'\s new today?'),
+      home: MyHomePage(title: 'What\'\s news today?'),
     );
   }
 }
